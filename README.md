@@ -35,6 +35,8 @@ Por fim, as metas são enviadas para a coluna _"Done"_ onde poderão ser arquiva
 > c. Desenvolvimento das Interfaces de Baixa ou Média Fidelidade do produto/serviço
 >> [Ver PDF com as interfaces](https://github.com/kqueiroz/toDoList/blob/main/Interfaces/Interfaces.pdf)
 
+>> [Ver interfaces no Figma](https://www.figma.com/file/ycGy1Yp62ObkYlxlZ9msXL/Interfaces?node-id=0%3A1)
+
 >> [Utilizar navegação entre as interfaces](https://www.figma.com/proto/ycGy1Yp62ObkYlxlZ9msXL/Interfaces?node-id=47%3A144&scaling=min-zoom)
 
 >>> Na navegação entre as interfaces, pode-se utilizar alguns botões para a interação do Figma. Para saber quais botões estão ativos, basta clicar em alguma parte da tela no navegador para que estes sejam mostrados em azul.
