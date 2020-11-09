@@ -41,5 +41,8 @@ Por fim, as metas são enviadas para a coluna _"Done"_ onde poderão ser arquiva
 
 >>> Na navegação entre as interfaces, pode-se utilizar alguns botões para a interação do Figma. Para saber quais botões estão ativos, basta clicar em alguma parte da tela no navegador para que estes sejam mostrados em azul.
 
+> d. Construção inicial do backlog do produto utilizando a funcionalidade de projetos do github
+>> [Backlog inicial](https://github.com/kqueiroz/toDoList/projects/1)
+
 
 
