@@ -2,16 +2,16 @@
 
 ## Time
 > Ângelo de Sant'Ana
->> Desenvolvedor - [Github](https://github.com/AngeloDias)
+>> Desenvolvedor - [@AngeloDias](https://github.com/AngeloDias)
 
 > Isaias Santos Sousa
->> Desenvolvedor - [Github](https://github.com/IsaiasSantosS)
+>> Desenvolvedor - [@IsaiasSantosS](https://github.com/IsaiasSantosS)
 
 > Izaquiel de Queiroz Ferreira
->> Desenvolvedor - [Github](https://github.com/kqueiroz)
+>> Desenvolvedor - [@kqueiroz](https://github.com/kqueiroz)
 
 > Nilton Santos de Jesus
->> Desenvolvedor - [Github](https://github.com/nsj2)
+>> Desenvolvedor - [@nsj2](https://github.com/nsj2)
 
 ## Descrição do projeto
 
